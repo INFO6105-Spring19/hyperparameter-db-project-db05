@@ -1,0 +1,6 @@
+id,model_id,runtime,algo_id,seed,tweedie_variance_power,alpha,lambda,missing_values_handling
+1,GLM_grid_1_AutoML_20190419_174950_model_1,1500,2,6.01E+18,0,"[0.0, 0.2, 0.4, 0.6, 0.8, 1.0]",lambda,missing_values_handling
+2,GLM_grid_1_AutoML_20190419_200713_model_1,1000,2,6.01E+18,0,"[0.0, 0.2, 0.4, 0.6, 0.8, 1.0]",lambda,missing_values_handling
+3,GLM_grid_1_AutoML_20190419_200713_model_1,2000,2,6.01E+18,0,"[0.0, 0.2, 0.4, 0.6, 0.8, 1.0]",lambda,missing_values_handling
+4,GLM_grid_1_AutoML_20190419_205801_model_1,2500,2,6.01E+18,0,"[0.0, 0.2, 0.4, 0.6, 0.8, 1.0]",lambda,missing_values_handling
+5,GLM_grid_1_AutoML_20190419_174950_model_1,2000,2,6.01E+18,0,"[0.0, 0.2, 0.4, 0.6, 0.8, 1.0]",lambda,missing_values_handling
